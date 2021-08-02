@@ -1,2 +1,0 @@
-This is a local file.
-File2 updated.
